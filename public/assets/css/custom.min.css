@@ -1,0 +1,14 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+.sm_image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%; /* To make the image circular */
+    object-fit: cover; /* To maintain aspect ratio and cover the whole area */
+}
+
+.sq_image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover; /* To maintain aspect ratio and cover the whole area */
+}
